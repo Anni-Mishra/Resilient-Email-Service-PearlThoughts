@@ -48,7 +48,7 @@ resilient-email-service/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/resilient-email-service.git
+git clone [https://github.com/Anni-Mishra/Resilient-Email-Service-PearlThoughts/]
 cd resilient-email-service
 
 ### 2. Install dependencies
